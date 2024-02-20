@@ -1,0 +1,14 @@
+<!ELEMENT posthistory (row+)>
+<!ELEMENT row EMPTY>
+<!ATTLIST row
+    Id              CDATA   #REQUIRED
+    PostHistoryTypeId CDATA  #REQUIRED
+    PostId          CDATA   #REQUIRED
+    RevisionGUID    CDATA   #REQUIRED
+    CreationDate    CDATA   #REQUIRED
+    UserId          CDATA   #IMPLIED
+    UserDisplayName CDATA   #IMPLIED
+    Comment         CDATA   #IMPLIED
+    Text            CDATA   #IMPLIED
+    CloseReasonId   CDATA   #IMPLIED
+>

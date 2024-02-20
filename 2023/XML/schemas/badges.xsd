@@ -1,0 +1,32 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="badges">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="row" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:attribute name="Id" type="xs:integer" />
+            <xs:attribute name="UserId" type="xs:integer" />
+            <xs:attribute name="Name" type="xs:string" />
+            <xs:attribute name="Date" type="xs:dateTime" />
+            <xs:attribute name="Class">
+              <xs:simpleType>
+                <xs:restriction base="xs:integer">
+                  <xs:minInclusive value="1" />
+                  <xs:maxInclusive value="4" />
+                </xs:restriction>
+              </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="TagBased">
+              <xs:simpleType>
+                <xs:restriction base="xs:string">
+                  <xs:enumeration value="True" />
+                  <xs:enumeration value="False" />
+                </xs:restriction>
+              </xs:simpleType>
+            </xs:attribute>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
