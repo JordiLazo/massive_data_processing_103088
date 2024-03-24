@@ -1,123 +1,253 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <row>
-    <title>Bluey. Libro juguete - ¿Dónde está Bluey? (edición en español)</title>
-    <author>Bluey</author>
-    <price>14.20</price>
+    <book>Hábitos Atómicos</book>
+    <author>James Clear</author>
+    <current_price>18.91</current_price>
   </row>
   <row>
-    <title>Cor trencat</title>
-    <author>Blay, Pep</author>
-    <price>22.80</price>
+    <book>Automatización de Procesos Industriales</book>
+    <author>Emilio García Moreno</author>
+    <current_price>28.12</current_price>
   </row>
   <row>
-    <title>Tres enigmas para la Organización</title>
-    <author>Mendoza, Eduardo</author>
-    <price>20.80</price>
+    <book>El Pequeño Libro Para Invertir con Sentido Común</book>
+    <author>John C. Bogle</author>
+    <current_price>16.1</current_price>
   </row>
   <row>
-    <title>Titó. Excursió al fons del mar</title>
-    <author>Jiménez Carbó, Cristina</author>
-    <price>11.35</price>
+    <book>Quantum Computation and Quantum Information</book>
+    <author>Nielsen Michael A.</author>
+    <current_price>68.87</current_price>
   </row>
   <row>
-    <title>BLACKWATER I. La riuada</title>
-    <author>McDowell, Michael</author>
-    <price>9.40</price>
+    <book>All-New Echo dot (3Rd Generation) Beginner's User Manual</book>
+    <author>Pharm Ibrahim</author>
+    <current_price>15.82</current_price>
   </row>
   <row>
-    <title>Arta y Max - Superagentes secretos</title>
-    <author>Game, Arta</author>
-    <price>17.05</price>
+    <book>Observing the User Experience</book>
+    <author>Elizabeth Goodman Ph.D.  School Of Information  University Of California Berkeley Dr.; Mike Kuniavsky; Andrea Moed</author>
+    <current_price>55.8</current_price>
   </row>
   <row>
-    <title>Heartstopper 5. Creciendo contigo</title>
-    <author>Oseman, Alice</author>
-    <price>15.15</price>
+    <book>A Composer's Guide to Game Music (Mit Press) (The mit Press) (en Inglés)</book>
+    <author>Winifred Phillips</author>
+    <current_price>27.31</current_price>
   </row>
   <row>
-    <title>Heartstopper 5. Sempre al teu costat</title>
-    <author>Oseman, Alice</author>
-    <price>15.15</price>
+    <book>Value Sensitive Design</book>
+    <author>Batya Friedman; David G. Hendry</author>
+    <current_price>35.46</current_price>
   </row>
   <row>
-    <title>La cuina de la memòria</title>
-    <author>Paré Vidal, Anna</author>
-    <price>18.95</price>
+    <book>Automating Solidworks 2019 Using Macros (en Inglés)</book>
+    <author>Mike Spens</author>
+    <current_price>55.81</current_price>
   </row>
   <row>
-    <title>Todos los lugares que mantuvimos en secreto</title>
-    <author>Rubiales, Inma</author>
-    <price>17.95</price>
+    <book>Excel Avanzado</book>
+    <author>Julio Vílchez Beltrán</author>
+    <current_price>17.34</current_price>
   </row>
   <row>
-    <title>BLACKWATER I. La riada</title>
-    <author>McDowell, Michael</author>
-    <price>9.40</price>
+    <book>Todo sobre Internet</book>
+    <author>Ingo Lackerbauer</author>
+    <current_price>17.96</current_price>
   </row>
   <row>
-    <title>Casa de llama y sombra (Ciudad Medialuna 3)</title>
-    <author>Maas, Sarah J.</author>
-    <price>20.85</price>
+    <book>Sql</book>
+    <author>Jacobs, Paige</author>
+    <current_price>28.04</current_price>
   </row>
   <row>
-    <title>A partir d'ara</title>
-    <author>Bellvehí, Marta</author>
-    <price>18.95</price>
+    <book>Advanced Excel Formulas</book>
+    <author>Murray, Alan</author>
+    <current_price>49.81</current_price>
   </row>
   <row>
-    <title>BLACKWATER II. El dique</title>
-    <author>McDowell, Michael</author>
-    <price>9.40</price>
+    <book>Hacking Product Design</book>
+    <author>Jing, Tony</author>
+    <current_price>37.24</current_price>
   </row>
   <row>
-    <title>BLACKWATER II. El dic</title>
-    <author>McDowell, Michael</author>
-    <price>9.40</price>
+    <book>Effective Modern C++</book>
+    <author>Meyers, Scott</author>
+    <current_price>53.49</current_price>
   </row>
   <row>
-    <title>Magic Animals 1. El poder de l'amulet</title>
-    <author>Isern, Susanna</author>
-    <price>11.35</price>
+    <book>Amazon Fire Stick</book>
+    <author>Thomas, Matthew</author>
+    <current_price>14.71</current_price>
   </row>
   <row>
-    <title>Cuando seamos sueños de papel</title>
-    <author>Ibáñez, Pol</author>
-    <price>18.00</price>
+    <book>Programming</book>
+    <author>Stroustrup, Bjarne</author>
+    <current_price>64.11</current_price>
   </row>
   <row>
-    <title>Tu cerebro tiene hambre</title>
-    <author>García, Boticaria</author>
-    <price>18.90</price>
+    <book>Accelerate</book>
+    <author>Forsgren Phd, Nicole ; Humble, Jez ; Kim, Gene</author>
+    <current_price>22.55</current_price>
   </row>
   <row>
-    <title>El subtil art que tot t'importi una merda</title>
-    <author>Manson, Mark</author>
-    <price>16.05</price>
+    <book>Internet, Redes Sociales y Dispositivos Digitales (Adgg040Po). Especialidades Formativas</book>
+    <author>Gloria Barberán González</author>
+    <current_price>19.47</current_price>
   </row>
   <row>
-    <title>Bona nit</title>
-    <author>Martí, Meritxell</author>
-    <price>15.67</price>
+    <book>Fundamentos de Bases de Datos</book>
+    <author>Abraham Silberschatz; Henry Korth; S. Sudarshan</author>
+    <current_price>80.4</current_price>
   </row>
   <row>
-    <title>Manual de supervivència d'una dona soltera</title>
-    <author>Picó Sentelles, Alfred</author>
-    <price>19.00</price>
+    <book>Grabación en Estudio</book>
+    <author>Alejandro Gómez Ferreras,Francesc Morales Galiana,José Luis Molero Milán</author>
+    <current_price>34.68</current_price>
   </row>
   <row>
-    <title>Anna Kadabra 13. Peligro en la mansión</title>
-    <author>Mañas, Pedro</author>
-    <price>10.40</price>
+    <book>Windows 10 for Dummies (en Inglés)</book>
+    <author>Rathbone, Andy</author>
+    <current_price>23.74</current_price>
   </row>
   <row>
-    <title>Las hijas de la criada</title>
-    <author>Ónega, Sonsoles</author>
-    <price>21.75</price>
+    <book>En Defensa de la Conversación (Ático Bolsillo)</book>
+    <author>Sherry Turkle</author>
+    <current_price>11.31</current_price>
   </row>
   <row>
-    <title>Powerless</title>
-    <author>Roberts, Lauren</author>
-    <price>20.85</price>
+    <book>Accelerated C++</book>
+    <author>Barbara E. Moo,Andrew  Koenig</author>
+    <current_price>59.42</current_price>
+  </row>
+  <row>
+    <book>implementing domain-driven design (en Inglés)</book>
+    <author>Vernon, Vaughn</author>
+    <current_price>55.9</current_price>
+  </row>
+  <row>
+    <book>A Project Guide to ux Design</book>
+    <author>Unger, Russ ; Chandler, Carolyn</author>
+    <current_price>39.08</current_price>
+  </row>
+  <row>
+    <book>Data Visualization</book>
+    <author>Healy, Kieran</author>
+    <current_price>45.13</current_price>
+  </row>
+  <row>
+    <book>The art of Doing Science and Engineering</book>
+    <author>Hamming, Richard ; Victor, Bret</author>
+    <current_price>26.15</current_price>
+  </row>
+  <row>
+    <book>Modern Front-End Development for Rails, Second Edition</book>
+    <author>Rappin, Noel</author>
+    <current_price>50.46</current_price>
+  </row>
+  <row>
+    <book>Design Patterns</book>
+    <author>Gamma, Erich ; Helm, Richard ; Johnson, Ralph</author>
+    <current_price>51.83</current_price>
+  </row>
+  <row>
+    <book>Sekiro</book>
+    <author>Freeman, Edwin</author>
+    <current_price>28.04</current_price>
+  </row>
+  <row>
+    <book>Ciberseguridad</book>
+    <author>Kiser, Quinn</author>
+    <current_price>21.36</current_price>
+  </row>
+  <row>
+    <book>The Legend of Zelda</book>
+    <author>Piggyback</author>
+    <current_price>37.28</current_price>
+  </row>
+  <row>
+    <book>Marvel's Spider-Man</book>
+    <author>Matt Ralphs</author>
+    <current_price>33.63</current_price>
+  </row>
+  <row>
+    <book>The art of the Last of us (en Inglés)</book>
+    <author>Various ; Various</author>
+    <current_price>43.43</current_price>
+  </row>
+  <row>
+    <book>C Programming Language, 2nd Edition (en Inglés)</book>
+    <author>Kernighan, Brian ; Ritchie, Dennis</author>
+    <current_price>57.93</current_price>
+  </row>
+  <row>
+    <book>Tecnoceno</book>
+    <author>Flavia Costa</author>
+    <current_price>21.38</current_price>
+  </row>
+  <row>
+    <book>El Instinto Científico</book>
+    <author>Gomberoff Andres</author>
+    <current_price>23.37</current_price>
+  </row>
+  <row>
+    <book>El Lenguaje Unificado de Modelado, uml 2. 0</book>
+    <author>Grady Booch,James Rumbaugh,Ivar Jacobson</author>
+    <current_price>53.82</current_price>
+  </row>
+  <row>
+    <book>El Pequeño Libro que aún Vence al Mercado</book>
+    <author>Joel Greenblatt</author>
+    <current_price>16.1</current_price>
+  </row>
+  <row>
+    <book>Autocad 2021</book>
+    <author>Antonio Manuel Reyes Rodr&amp;Iacute;Guez</author>
+    <current_price>28.45</current_price>
+  </row>
+  <row>
+    <book>Instalaciones Domóticas ( Edición 2020)</book>
+    <author>Luis Miguel Cerd&amp;Aacute; Filiu; Manuel Gas Bueno</author>
+    <current_price>27.08</current_price>
+  </row>
+  <row>
+    <book>Fundamentos de Programacion</book>
+    <author>Luis Joyanes Aguilar</author>
+    <current_price>43.27</current_price>
+  </row>
+  <row>
+    <book>The art of far cry 6 (en Inglés)</book>
+    <author>Ubisoft</author>
+    <current_price>35.46</current_price>
+  </row>
+  <row>
+    <book>Python Tools for Scientists</book>
+    <author>Vaughan, Lee</author>
+    <current_price>43.43</current_price>
+  </row>
+  <row>
+    <book>Quantum Information Theory (en Inglés)</book>
+    <author>Wilde, Mark M.</author>
+    <current_price>75.99</current_price>
+  </row>
+  <row>
+    <book>The Book of Satoshi</book>
+    <author>Champagne, Phil</author>
+    <current_price>13.88</current_price>
+  </row>
+  <row>
+    <book>The art of Bravely Default (en Inglés)</book>
+    <author>Square Enix ; Akihiko, Yoshida</author>
+    <current_price>35.46</current_price>
+  </row>
+  <row>
+    <book>Estadística Práctica Para Ciencia de Datos con r y Python 2 ed</book>
+    <author>Peter Bruce | Andrew Bruce | Peter Gedeck</author>
+    <current_price>39.08</current_price>
+  </row>
+  <row>
+    <book>Gestión de Proyectos Informáticos</book>
+    <author>José Ramón Rodríguez Bermúdez,Jordi García Mínguez,Ignacio Lamarca Orozco</author>
+    <current_price>58.51</current_price>
   </row>
 </data>

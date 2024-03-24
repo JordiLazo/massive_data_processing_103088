@@ -1,0 +1,200 @@
+Book 1 Title: Hábitos Atómicos
+Author: James Clear
+Current Price: 18,91 €
+
+Book 2 Title: Automatización de Procesos Industriales
+Author: Emilio García Moreno
+Current Price: 28,12 €
+
+Book 3 Title: El Pequeño Libro Para Invertir con Sentido Común: El Mejor Método Para Garantizar la Rentabilidad en Bolsa
+Author: John C. Bogle
+Current Price: 16,10 €
+
+Book 4 Title: Quantum Computation and Quantum Information: 10Th Anniversary Edition (en Inglés)
+Author: Nielsen Michael A.
+Current Price: 68,87 €
+
+Book 5 Title: All-New Echo dot (3Rd Generation) Beginner's User Manual: This Guide Gives you Just What you Need to Operate an Echo dot (3Rd Generation) Like a Pro! (en Inglés)
+Author: Pharm Ibrahim
+Current Price: 15,82 €
+
+Book 6 Title: Observing the User Experience: A Practitioner'S Guide to User Research (en Inglés)
+Author: Elizabeth Goodman Ph.D.  School Of Information  University Of California Berkeley Dr.; Mike Kuniavsky; Andrea Moed
+Current Price: 55,80 €
+
+Book 7 Title: A Composer's Guide to Game Music (Mit Press) (The mit Press) (en Inglés)
+Author: Winifred Phillips
+Current Price: 27,31 €
+
+Book 8 Title: Value Sensitive Design: Shaping Technology With Moral Imagination (The mit Press) (en Inglés)
+Author: Batya Friedman; David G. Hendry
+Current Price: 35,46 €
+
+Book 9 Title: Automating Solidworks 2019 Using Macros (en Inglés)
+Author: Mike Spens
+Current Price: 55,81 €
+
+Book 10 Title: Excel Avanzado
+Author: Julio Vílchez Beltrán
+Current Price: 17,34 €
+
+Book 11 Title: Todo sobre Internet
+Author: Ingo Lackerbauer
+Current Price: 17,96 €
+
+Book 12 Title: Sql: Guía Completa Para Principiantes de la Programación sql con Ejercicios y Estudios de Casos(Libro en Espan̆Ol
+Author: Jacobs, Paige
+Current Price: 28,04 €
+
+Book 13 Title: Advanced Excel Formulas: Unleashing Brilliance With Excel Formulas (en Inglés)
+Author: Murray, Alan
+Current Price: 49,81 €
+
+Book 14 Title: Hacking Product Design: A Guide to Designing Products for Startups (en Inglés)
+Author: Jing, Tony
+Current Price: 37,24 €
+
+Book 15 Title: Effective Modern C++: 42 Specific Ways To Improve Your Use Of C++11 And C++14 (en Inglés)
+Author: Meyers, Scott
+Current Price: 53,49 €
+
+Book 16 Title: Amazon Fire Stick: The Ultimate User Guide to Discover the True Potential of Your Fire (Fire Stick, Fire tv, Amazon, Streaming Devices, Amazon Fire tv Stick User Guide, how to use Fire Stick) (en Inglés)
+Author: Thomas, Matthew
+Current Price: 14,71 €
+
+Book 17 Title: Programming: Principles and Practice Using c++ (en Inglés)
+Author: Stroustrup, Bjarne
+Current Price: 64,11 €
+
+Book 18 Title: Accelerate: The Science of Lean Software and Devops: Building and Scaling High Performing Technology Organizations (en Inglés)
+Author: Forsgren Phd, Nicole ; Humble, Jez ; Kim, Gene
+Current Price: 22,55 €
+
+Book 19 Title: Internet, Redes Sociales y Dispositivos Digitales (Adgg040Po). Especialidades Formativas
+Author: Gloria Barberán González
+Current Price: 19,47 €
+
+Book 20 Title: Fundamentos de Bases de Datos
+Author: Abraham Silberschatz; Henry Korth; S. Sudarshan
+Current Price: 80,40 €
+
+Book 21 Title: Grabación en Estudio: Preparación y Técnicas
+Author: Alejandro Gómez Ferreras,Francesc Morales Galiana,José Luis Molero Milán
+Current Price: 34,68 €
+
+Book 22 Title: Windows 10 for Dummies (en Inglés)
+Author: Rathbone, Andy
+Current Price: 23,74 €
+
+Book 23 Title: En Defensa de la Conversación (Ático Bolsillo)
+Author: Sherry Turkle
+Current Price: 11,31 €
+
+Book 24 Title: Accelerated C++: Practical Programming by Example (en Inglés)
+Author: Barbara E. Moo,Andrew  Koenig
+Current Price: 59,42 €
+
+Book 25 Title: implementing domain-driven design (en Inglés)
+Author: Vernon, Vaughn
+Current Price: 55,90 €
+
+Book 26 Title: A Project Guide to ux Design: For User Experience Designers in the Field or in the Making (Voices That Matter) (en Inglés)
+Author: Unger, Russ ; Chandler, Carolyn
+Current Price: 39,08 €
+
+Book 27 Title: Data Visualization: A Practical Introduction (en Inglés)
+Author: Healy, Kieran
+Current Price: 45,13 €
+
+Book 28 Title: The art of Doing Science and Engineering: Learning to Learn (en Inglés)
+Author: Hamming, Richard ; Victor, Bret
+Current Price: 26,15 €
+
+Book 29 Title: Modern Front-End Development for Rails, Second Edition: Hotwire, Stimulus, Turbo, and React (en Inglés)
+Author: Rappin, Noel
+Current Price: 50,46 €
+
+Book 30 Title: Design Patterns: Elements of Reusable Object-Oriented Software (en Inglés)
+Author: Gamma, Erich ; Helm, Richard ; Johnson, Ralph
+Current Price: 51,83 €
+
+Book 31 Title: Sekiro: Shadows die Twice Ultimate Game Guide: Important Tips, Combat, Walkthrough for Each Zone, Boss Battles and Guides, all Endings, Secret Locations and More (en Inglés)
+Author: Freeman, Edwin
+Current Price: 28,04 €
+
+Book 32 Title: Ciberseguridad: Una Simple Guía Para Principiantes Sobre Ciberseguridad, Redes Informáticas y Cómo Protegerse del Hacking en Forma de Phishing, Malware, Ransomware e Ingeniería Social
+Author: Kiser, Quinn
+Current Price: 21,36 €
+
+Book 33 Title: The Legend of Zelda: Breath of the Wild the Complete Official Guide: -Expanded Edition (en Inglés)
+Author: Piggyback
+Current Price: 37,28 €
+
+Book 34 Title: Marvel's Spider-Man: Miles Morales the art of the Game (en Inglés)
+Author: Matt Ralphs
+Current Price: 33,63 €
+
+Book 35 Title: The art of the Last of us (en Inglés)
+Author: Various ; Various
+Current Price: 43,43 €
+
+Book 36 Title: C Programming Language, 2nd Edition (en Inglés)
+Author: Kernighan, Brian ; Ritchie, Dennis
+Current Price: 57,93 €
+
+Book 37 Title: Tecnoceno
+Author: Flavia Costa
+Current Price: 21,38 €
+
+Book 38 Title: El Instinto Científico
+Author: Gomberoff Andres
+Current Price: 23,37 €
+
+Book 39 Title: El Lenguaje Unificado de Modelado, uml 2. 0: Guía de Usuario: Aprenda uml Directamente de sus Creadores
+Author: Grady Booch,James Rumbaugh,Ivar Jacobson
+Current Price: 53,82 €
+
+Book 40 Title: El Pequeño Libro que aún Vence al Mercado: Descubre la Fórmula más Rentable Para Invertir en Bolsa
+Author: Joel Greenblatt
+Current Price: 16,10 €
+
+Book 41 Title: Autocad 2021
+Author: Antonio Manuel Reyes Rodr&Iacute;Guez
+Current Price: 28,45 €
+
+Book 42 Title: Instalaciones Domóticas ( Edición 2020)
+Author: Luis Miguel Cerd&Aacute; Filiu; Manuel Gas Bueno
+Current Price: 27,08 €
+
+Book 43 Title: Fundamentos de Programacion
+Author: Luis Joyanes Aguilar
+Current Price: 43,27 €
+
+Book 44 Title: The art of far cry 6 (en Inglés)
+Author: Ubisoft
+Current Price: 35,46 €
+
+Book 45 Title: Python Tools for Scientists: An Introduction to Coding, Anaconda, Jupyterlab, and the Scientific Libraries (en Inglés)
+Author: Vaughan, Lee
+Current Price: 43,43 €
+
+Book 46 Title: Quantum Information Theory (en Inglés)
+Author: Wilde, Mark M.
+Current Price: 75,99 €
+
+Book 47 Title: The Book of Satoshi: The Collected Writings of Bitcoin Creator Satoshi Nakamoto (en Inglés)
+Author: Champagne, Phil
+Current Price: 13,88 €
+
+Book 48 Title: The art of Bravely Default (en Inglés)
+Author: Square Enix ; Akihiko, Yoshida
+Current Price: 35,46 €
+
+Book 49 Title: Estadística Práctica Para Ciencia de Datos con r y Python 2 ed
+Author: Peter Bruce | Andrew Bruce | Peter Gedeck
+Current Price: 39,08 €
+
+Book 50 Title: Gestión de Proyectos Informáticos: Métodos, Herramientas y Casos
+Author: José Ramón Rodríguez Bermúdez,Jordi García Mínguez,Ignacio Lamarca Orozco
+Current Price: 58,51 €
+

@@ -1,25 +1,51 @@
-title,author,price
-Bluey. Libro juguete - ¿Dónde está Bluey? (edición en español),Bluey,14.20
-Cor trencat,"Blay, Pep",22.80
-Tres enigmas para la Organización,"Mendoza, Eduardo",20.80
-Titó. Excursió al fons del mar,"Jiménez Carbó, Cristina",11.35
-BLACKWATER I. La riuada,"McDowell, Michael",9.40
-Arta y Max - Superagentes secretos,"Game, Arta",17.05
-Heartstopper 5. Creciendo contigo,"Oseman, Alice",15.15
-Heartstopper 5. Sempre al teu costat,"Oseman, Alice",15.15
-La cuina de la memòria,"Paré Vidal, Anna",18.95
-Todos los lugares que mantuvimos en secreto,"Rubiales, Inma",17.95
-BLACKWATER I. La riada,"McDowell, Michael",9.40
-Casa de llama y sombra (Ciudad Medialuna 3),"Maas, Sarah J.",20.85
-A partir d'ara,"Bellvehí, Marta",18.95
-BLACKWATER II. El dique,"McDowell, Michael",9.40
-BLACKWATER II. El dic,"McDowell, Michael",9.40
-Magic Animals 1. El poder de l'amulet,"Isern, Susanna",11.35
-Cuando seamos sueños de papel,"Ibáñez, Pol",18.00
-Tu cerebro tiene hambre,"García, Boticaria",18.90
-El subtil art que tot t'importi una merda,"Manson, Mark",16.05
-Bona nit,"Martí, Meritxell",15.67
-Manual de supervivència d'una dona soltera,"Picó Sentelles, Alfred",19.00
-Anna Kadabra 13. Peligro en la mansión,"Mañas, Pedro",10.40
-Las hijas de la criada,"Ónega, Sonsoles",21.75
-Powerless,"Roberts, Lauren",20.85
+book,author,current_price
+Hábitos Atómicos,James Clear,18.91
+Automatización de Procesos Industriales,Emilio García Moreno,28.12
+El Pequeño Libro Para Invertir con Sentido Común,John C. Bogle,16.1
+Quantum Computation and Quantum Information,Nielsen Michael A.,68.87
+All-New Echo dot (3Rd Generation) Beginner's User Manual,Pharm Ibrahim,15.82
+Observing the User Experience,Elizabeth Goodman Ph.D.  School Of Information  University Of California Berkeley Dr.; Mike Kuniavsky; Andrea Moed,55.8
+A Composer's Guide to Game Music (Mit Press) (The mit Press) (en Inglés),Winifred Phillips,27.31
+Value Sensitive Design,Batya Friedman; David G. Hendry,35.46
+Automating Solidworks 2019 Using Macros (en Inglés),Mike Spens,55.81
+Excel Avanzado,Julio Vílchez Beltrán,17.34
+Todo sobre Internet,Ingo Lackerbauer,17.96
+Sql,"Jacobs, Paige",28.04
+Advanced Excel Formulas,"Murray, Alan",49.81
+Hacking Product Design,"Jing, Tony",37.24
+Effective Modern C++,"Meyers, Scott",53.49
+Amazon Fire Stick,"Thomas, Matthew",14.71
+Programming,"Stroustrup, Bjarne",64.11
+Accelerate,"Forsgren Phd, Nicole ; Humble, Jez ; Kim, Gene",22.55
+"Internet, Redes Sociales y Dispositivos Digitales (Adgg040Po). Especialidades Formativas",Gloria Barberán González,19.47
+Fundamentos de Bases de Datos,Abraham Silberschatz; Henry Korth; S. Sudarshan,80.4
+Grabación en Estudio,"Alejandro Gómez Ferreras,Francesc Morales Galiana,José Luis Molero Milán",34.68
+Windows 10 for Dummies (en Inglés),"Rathbone, Andy",23.74
+En Defensa de la Conversación (Ático Bolsillo),Sherry Turkle,11.31
+Accelerated C++,"Barbara E. Moo,Andrew  Koenig",59.42
+implementing domain-driven design (en Inglés),"Vernon, Vaughn",55.9
+A Project Guide to ux Design,"Unger, Russ ; Chandler, Carolyn",39.08
+Data Visualization,"Healy, Kieran",45.13
+The art of Doing Science and Engineering,"Hamming, Richard ; Victor, Bret",26.15
+"Modern Front-End Development for Rails, Second Edition","Rappin, Noel",50.46
+Design Patterns,"Gamma, Erich ; Helm, Richard ; Johnson, Ralph",51.83
+Sekiro,"Freeman, Edwin",28.04
+Ciberseguridad,"Kiser, Quinn",21.36
+The Legend of Zelda,Piggyback,37.28
+Marvel's Spider-Man,Matt Ralphs,33.63
+The art of the Last of us (en Inglés),Various ; Various,43.43
+"C Programming Language, 2nd Edition (en Inglés)","Kernighan, Brian ; Ritchie, Dennis",57.93
+Tecnoceno,Flavia Costa,21.38
+El Instinto Científico,Gomberoff Andres,23.37
+"El Lenguaje Unificado de Modelado, uml 2. 0","Grady Booch,James Rumbaugh,Ivar Jacobson",53.82
+El Pequeño Libro que aún Vence al Mercado,Joel Greenblatt,16.1
+Autocad 2021,Antonio Manuel Reyes Rodr&Iacute;Guez,28.45
+Instalaciones Domóticas ( Edición 2020),Luis Miguel Cerd&Aacute; Filiu; Manuel Gas Bueno,27.08
+Fundamentos de Programacion,Luis Joyanes Aguilar,43.27
+The art of far cry 6 (en Inglés),Ubisoft,35.46
+Python Tools for Scientists,"Vaughan, Lee",43.43
+Quantum Information Theory (en Inglés),"Wilde, Mark M.",75.99
+The Book of Satoshi,"Champagne, Phil",13.88
+The art of Bravely Default (en Inglés),"Square Enix ; Akihiko, Yoshida",35.46
+Estadística Práctica Para Ciencia de Datos con r y Python 2 ed,Peter Bruce | Andrew Bruce | Peter Gedeck,39.08
+Gestión de Proyectos Informáticos,"José Ramón Rodríguez Bermúdez,Jordi García Mínguez,Ignacio Lamarca Orozco",58.51
